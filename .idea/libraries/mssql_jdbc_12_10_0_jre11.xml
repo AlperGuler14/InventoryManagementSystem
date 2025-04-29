@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="mssql-jdbc-12.10.0.jre11">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/OneDrive/Masaüstü/sqljdbc_12.10/enu/jars/mssql-jdbc-12.10.0.jre11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-j-9.3.0.zip!/mysql-connector-j-9.3.0/src/build/java" />
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-j-9.3.0.zip!/mysql-connector-j-9.3.0/src/demo/java" />
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-j-9.3.0.zip!/mysql-connector-j-9.3.0/src/generated/java" />
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-j-9.3.0.zip!/mysql-connector-j-9.3.0/src/legacy/java" />
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-j-9.3.0.zip!/mysql-connector-j-9.3.0/src/main/core-api/java" />
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-j-9.3.0.zip!/mysql-connector-j-9.3.0/src/main/core-impl/java" />
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-j-9.3.0.zip!/mysql-connector-j-9.3.0/src/main/protocol-impl/java" />
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-j-9.3.0.zip!/mysql-connector-j-9.3.0/src/main/user-api/java" />
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-j-9.3.0.zip!/mysql-connector-j-9.3.0/src/main/user-impl/java" />
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-j-9.3.0.zip!/mysql-connector-j-9.3.0/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
